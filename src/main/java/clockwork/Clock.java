@@ -39,7 +39,7 @@ public class Clock {
         CorrectWriting writing = new CorrectWriting();
         String word = writing.minute(result); //метод для корректного вывода склонений слова "минута"
 
-        System.out.println("До слудующего совпадения "+result+" "+word);
+        System.out.println("До слудующего совпадения "+result+" "+word+".");
 
 
     }
